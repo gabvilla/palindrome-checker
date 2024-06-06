@@ -3,5 +3,9 @@ const inputText = document.getElementById('input-text');
 const result = document.getElementById('result');
 
 checkBtn.addEventListener('click', () => {
-    console.log('hi');
+    if (inputText.value == ""){
+        window.alert("Please input a value");
+    } else {
+        const inputString = inputText.value;
+    };
 })
