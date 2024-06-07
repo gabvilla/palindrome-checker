@@ -7,13 +7,7 @@ checkButton.addEventListener('click', () => {
         window.alert("Please input a value");
     } else {
         const inputString = inputText.value;
-        const inputArray = inputString.split('');
-        const outputString = inputArray.toString().replace(/,/g,"");
-        console.log(inputString + " " + outputString)
-        if (inputString === outputString){
-            result.innerText = `${inputString} it's a palindrome!`
-        } else {
-            result.innerText = `${inputString} it's not a palindrome.`
-        }
+        const stringArray = inputString.replace(/\s/g, '').replace(/[^\w\s]/gi, '').split('');
+        const reversedArray = stringArray.reverse();
     };
 })
