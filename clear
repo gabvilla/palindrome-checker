@@ -1,0 +1,29 @@
+[33mcommit 7c7d3688d53081939ccf896472f70e4ca4662147[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mpalindrome-checker/master[m[33m)[m
+Author: Gabriel Morato Villassanti <gabriel.villassanti2@hotmail.com>
+Date:   Fri Jun 7 12:28:33 2024 -0300
+
+    started the new checker logic
+
+[33mcommit 165f59ff1c17ee8e1117c8cddcdf4acdcd37a8af[m
+Author: Gabriel Morato Villassanti <gabriel.villassanti2@hotmail.com>
+Date:   Fri Jun 7 10:06:25 2024 -0300
+
+    added the logical check for unique words
+
+[33mcommit a4aa3f509807d75580aa624cc5ffdd4d7500d04e[m
+Author: Gabriel Morato Villassanti <gabriel.villassanti2@hotmail.com>
+Date:   Thu Jun 6 18:51:25 2024 -0300
+
+    started the checker data tests
+
+[33mcommit 37eaa52112dd8560bd5f018cb9187d02d733b60e[m
+Author: Gabriel Morato Villassanti <gabriel.villassanti2@hotmail.com>
+Date:   Thu Jun 6 18:32:11 2024 -0300
+
+    added the initial project files
+
+[33mcommit 5c24ba48bd141c5ca30848a730a7b03c72a2a261[m
+Author: Gabriel Morato Villassanti <gabriel.villassanti2@hotmail.com>
+Date:   Thu Jun 6 17:01:23 2024 -0300
+
+    commit
